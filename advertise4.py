@@ -58,4 +58,4 @@ while time.time() - start < 60:
     NSRunLoop.currentRunLoop().runUntilDate_(NSDate.dateWithTimeIntervalSinceNow_(0.1))
 
 print("Stopping advertisement.")
-peripheral.stopAdvertising_()
+peripheral.stopAdvertising()
