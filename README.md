@@ -2,6 +2,7 @@
 
 A basic example of Bluetooth communication between two devices.
 
+> [!NOTE]  
 > This project has been continued at [bricknet-v2](https://github.com/BrickMMO/bricknet-v2).
 
 ---
